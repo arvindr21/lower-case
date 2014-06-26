@@ -4,11 +4,11 @@
   "authors": [
     "Arvind Ravulavaru <arvind.ravulavaru@gmail.com>"
   ],
-  "description": "An inline element to make content inside it upper-case",
+  "description": "An inline element to make content inside it lower-case",
   "keywords": "lower case, polymer, web-components",
   "main": "upper-case.html",
   "license": "MIT",
-  "homepage": "https://github.com/arvindr21/upper-case/",
+  "homepage": "https://github.com/arvindr21/lower-case/",
   "ignore": [
     "**/.*"
   ],
