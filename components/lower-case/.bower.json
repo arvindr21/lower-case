@@ -1,0 +1,28 @@
+{
+  "name": "lower-case",
+  "authors": [
+    "Arvind Ravulavaru <arvind.ravulavaru@gmail.com>"
+  ],
+  "description": "An inline element to make content inside it lower-case",
+  "keywords": "lower case, polymer, web-components",
+  "main": "lower-case.html",
+  "license": "MIT",
+  "homepage": "https://github.com/arvindr21/lower-case/",
+  "ignore": [
+    "**/.*"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer",
+    "platform": "Polymer/platform"
+  },
+  "_release": "4455f88aa8",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "4455f88aa8500848f4a2a33cc2a68b41f5894805"
+  },
+  "_source": "git://github.com/arvindr21/lower-case.git",
+  "_target": "master",
+  "_originalSource": "arvindr21/lower-case",
+  "_direct": true
+}

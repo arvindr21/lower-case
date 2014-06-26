@@ -1,0 +1,35 @@
+<link rel="import" href="../polymer/polymer.html">
+
+<!--
+An inline element to make content inside it lower-case
+
+##### Basic Usage
+
+    <lower-case>Your text here</lower-case>
+
+The result would be 
+	
+	your text here
+
+Using nested tags
+	
+	<lower-case><p>Your text here<p></lower-case>
+
+The result would be 
+	
+	your text here
+
+@element lower-case
+@blurb Element providing solution to no problem in particular.
+@status alpha
+@homepage http://arvindr21.github.io/lower-case
+-->
+<polymer-element name="lower-case" attributes="notitle author">
+  <template>
+    <link rel="stylesheet" href="lower-case.css" />
+    <content></content>
+  </template>
+  <script>
+    Polymer('lower-case', {});
+  </script>
+</polymer-element>
